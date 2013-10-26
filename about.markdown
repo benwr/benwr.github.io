@@ -6,25 +6,49 @@ date: 2013-10-25 21:22:37
 
 <img src="/images/030f68d.jpg" 
   alt="I wear a tie once a year. I burn it immediately afterwards."
-  style="float:right;clear:both;width:6em;margin:1em;" />
+  style="float:right;clear:both;width:6em;margin: 0 0 1em 1em;" />
 I'm a [Computer Engineering](http://www.ece.vt.edu)
 (and maybe [Philosophy](http://www.phil.vt.edu)) student at 
-[Virginia Tech](http://vt.edu). I've interned at 
+[Virginia Tech](http://vt.edu). I've been an intern at 
 [the Virginia Tech Transportation Institute](http://www.vtti.vt.edu),
 [Virginia Tech's IT Security Lab](http://www.security.vt.edu/security_lab/),
 [IBM](http://ibm.com), and [Google](http://google.com).
+
+I'm also involved with
+[Hacksburg, Blacksburg's Hackerspace](http://hacksburg.org); 
+[the Virginia Tech Linux and Unix Users' Group](http://vtluug.org); and
+sometimes mentor [FIRST Robotics Team 401](http://team401.info).
+
 My interests include Artificial Intelligence (Machine Learning in particular),
-Robotics, Kayaking, Human-Computer Interaction, Cellular Automata, Knitting, Digital Electronics,
-Language (Computational Linguistics, Formal Languages, Programming Languages,
-and Natural Language Processing), Ethics, Hiking, and any combination of these things.
+Robotics, Kayaking, Human-Computer Interaction, Cellular Automata, Knitting, 
+Digital Electronics, Language (Computational Linguistics, Formal Languages, 
+Programming Languages, and Natural Language Processing), Ethics, Hiking, and any 
+combination of these things.
+
+My tools of choice include Python, C++ (although I admit that I pretend that
+it's C with classes and generics), Ruby, and Scheme. I occasionally play with
+Haskell or Go, and sometimes use Matlab or LabView for domain-specific tasks.
+My shell of choice has been ZSH for years, but I'm now giving fish a shot.
 
 For more information, you can check out my internet 
-[r&eacute;sum&eacute;](http://www.linkedin.com/pub/ben-weinstein-raun/28/967/368/), 
+[r&eacute;sum&eacute;](http://www.linkedin.com/pub/ben-weinstein-raun/28/967/368/),
 see some of my [projects](http://github.com/benwr), or send me an email. My address 
-is `[username]@[domain].edu`, where `[username]` is bravo whiskey romeo, and 
-`[domain]` is victor tango.
+is `[username]@[site].[tld]`, where `[username]`,
+`[site]`, and `[tld]` are drawn from the following table:
 
-For those of you who use such things, my PGP Key is as follows: 
+| username        | site    | tld   |
+| --------------- |:-------:| -----:|
+| `bwr`           | `vt`    | `edu` |
+| `benwr`         | `vt`    | `edu` |
+| `donotreply`    | `vt`    | `edu` |
+| `weinsteinraun` | `gmail` | `com` |
+| `bwr`           | `ieee`  | `org` |
+| `benwr01`       | `gmail` | `com` |
+
+I'm `bwr` on the OFTC IRC network.
+
+For those of you who use such things, my PGP public key has the short id 0xb90ab31f,
+and is as follows: 
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
