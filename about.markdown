@@ -32,6 +32,7 @@ My shell of choice has been ZSH for years, but I'm now giving fish a shot.
 
 For more information, you can check out my internet 
 [r&eacute;sum&eacute;](http://www.linkedin.com/pub/ben-weinstein-raun/28/967/368/),
+download a PDF version of my [CV](/images/CV.pdf),
 see some of my [projects](http://github.com/benwr), or send me an email. My address 
 is `[username]@[site].[tld]`, where `[username]`,
 `[site]`, and `[tld]` are drawn from the following table:
