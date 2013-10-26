@@ -17,7 +17,7 @@ I'm a [Computer Engineering](http://www.ece.vt.edu)
 I'm also involved with
 [Hacksburg, Blacksburg's Hackerspace](http://hacksburg.org); 
 [the Virginia Tech Linux and Unix Users' Group](http://vtluug.org); and
-sometimes mentor [FIRST Robotics Team 401](http://team401.info).
+sometimes mentor [FIRST Robotics Team 401](http://team401.org).
 
 My interests include Artificial Intelligence (Machine Learning in particular),
 Robotics, Kayaking, Human-Computer Interaction, Cellular Automata, Knitting, 
