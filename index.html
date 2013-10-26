@@ -1,0 +1,29 @@
+---
+layout: default
+title: Benjamin Weinstein-Raun
+---
+
+<div id="home">
+  <p>Hello, you may have noticed that you've reached the home page of Ben 
+  Weinstein-Raun. If not, look up slightly. I'm not currently available 
+  to take your call; please leave a message at one of the locations linked 
+  at the bottom of the page. You could try waiting for a tone, but I doubt 
+  that you'll hear it.</p>
+
+  <p> I'm a <a href="http://www.ece.vt.edu">Computer Engineering</a>
+  (and maybe <a href="http://www.phil.vt.edu">Philosophy</a>) student at <a href="http://vt.edu">Virginia Tech</a>.
+  I've interned at <a href="http://www.vtti.vt.edu">the Virginia Tech Transportation Institute</a>,
+  <a href="http://www.security.vt.edu/security_lab/">Virginia Tech's IT Security Lab</a>,
+  <a href="http://ibm.com">IBM</a>, and <a href="http://google.com">Google</a>.
+  My interests include Artificial Intelligence (Machine Learning in particular),
+  Robotics, Kayaking, Human-Computer Interaction, Cellular Automata, Knitting, Digital Electronics,
+  Language (Computational Linguistics, Formal Languages, Programming Languages,
+  and Natural Language Processing), Ethics, Hiking, and any combination of these things.</p>
+
+  <h2>Blog Posts</h2>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
