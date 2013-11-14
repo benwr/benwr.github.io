@@ -5,7 +5,7 @@ date: 2013-10-25 21:22:37
 ---
 
 <img src="/images/030f68d.jpg" 
-  alt="I wear a tie once a year. I burn it immediately afterwards."
+  title='I wear a tie once a year for a perilous and arcane ritual called "The Engineering Expo". I burn it immediately afterwards.'
   style="float:right;clear:both;width:6em;margin: 0 0 1em 1em;" />
 I'm a [Computer Engineering](http://www.ece.vt.edu)
 (and maybe [Philosophy](http://www.phil.vt.edu)) student at 
@@ -16,13 +16,13 @@ I'm a [Computer Engineering](http://www.ece.vt.edu)
 
 I'm also involved with
 [Hacksburg, Blacksburg's Hackerspace](http://hacksburg.org); 
-[the Virginia Tech Linux and Unix Users' Group](http://vtluug.org); and
-sometimes mentor [FIRST Robotics Team 401](http://team401.org).
+a member of [the Virginia Tech Linux and Unix Users' Group](http://vtluug.org); 
+and sometimes a mentor for [FIRST Robotics Team 401](http://team401.org).
 
 My interests include Artificial Intelligence (Machine Learning in particular),
 Robotics, Kayaking, Human-Computer Interaction, Cellular Automata, Knitting, 
 Digital Electronics, Language (Computational Linguistics, Formal Languages, 
-Programming Languages, and Natural Language Processing), Ethics, Hiking, and any 
+Programming Languages, and Natural Language Processing), Ethics, Hiking, and any
 combination of these things.
 
 My tools of choice include Python, C++ (although I admit that I pretend that
@@ -30,12 +30,12 @@ it's C with classes and generics), Ruby, and Scheme. I occasionally play with
 Haskell or Go, and sometimes use Matlab or LabView for domain-specific tasks.
 My shell of choice has been ZSH for years, but I'm now giving fish a shot.
 
-For more information, you can check out my internet 
-[r&eacute;sum&eacute;](http://www.linkedin.com/pub/ben-weinstein-raun/28/967/368/),
-download a PDF version of my [CV](/images/CV.pdf),
-see some of my [projects](http://github.com/benwr), or send me an email. My address 
-is `[username]@[site].[tld]`, where `[username]`,
-`[site]`, and `[tld]` are drawn from the following table:
+For more information, you can check out my internet [r&eacute;sum&eacute;
+](http://www.linkedin.com/pub/ben-weinstein-raun/28/967/368/), download a PDF 
+version of my [CV](/images/CV.pdf), see some of my [projects 
+](http://github.com/benwr), or send me an email. My address is 
+`[username]@[site].[tld]`, where `[username]`, `[site]`, and `[tld]` are drawn 
+from the following table:
 
 | username        | site    | tld   |
 | --------------- |:-------:| -----:|
@@ -48,8 +48,8 @@ is `[username]@[site].[tld]`, where `[username]`,
 
 I'm `bwr` on the OFTC IRC network.
 
-For those of you who use such things, my PGP public key has the short id 0xb90ab31f,
-and is as follows: 
+For those of you who use such things, my PGP public key has the short id 
+`0xb90ab31f`, and is as follows: 
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
