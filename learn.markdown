@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Things to Learn"
+date: 2014-07-11 1:37:37
+---
+
+## Meta-lists ##
+
+* [Matt Might: What Every Computer Science Major Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
+* [University of Cambridge: Mathematical Reading List](http://www.maths.cam.ac.uk/undergrad/admissions/readinglist.pdf)
+
+
+## Topics ##
+
+Currently this is a list of topics; I'll add links to resources as I come across them.
+ 
+### Math and Computer Science ###
+* Convex Optimization
+* Linear Optimization
+* Numerical Methods
+* Statistical Learning
+* Graph Theory
+* Modern Algebra
+* Higher-order logic
+
+### Computer Science ###
+* Artificial Intelligence
+* Advanced Algorithms and Data Structures
+* Planning
+* Complexity Theory
+
+### Physics ###
+* Relativity
+* Quantum Mechanics
+
+### Topics relevant to robotics ###
+* Dynamics
+* Kinematics
+* Control Theory
+* Computer Vision Systems
+
+### Miscellaneous ##
+* Computational Linguistics
+* Game Theory
+* DSP
