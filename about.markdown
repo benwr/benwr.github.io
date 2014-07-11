@@ -9,8 +9,9 @@ date: 2013-10-25 21:22:37
   style="float:right;clear:both;width:6em;margin: 0 0 1em 1em;" />
 I'm a [Computer Engineering](http://www.ece.vt.edu)
 (and maybe [Philosophy](http://www.phil.vt.edu)) student at 
-[Virginia Tech](http://vt.edu). I've been an intern at 
-[the Virginia Tech Transportation Institute](http://www.vtti.vt.edu),
+[Virginia Tech](http://vt.edu). Right now (Summer 2014) I'm working at
+the [Personal Robotics Lab](http://personalrobotics.ri.cmu.edu) at Carnegie Mellon.
+I've been an intern at [the Virginia Tech Transportation Institute](http://www.vtti.vt.edu),
 [Virginia Tech's IT Security Lab](http://www.security.vt.edu/security_lab/),
 [IBM](http://ibm.com), and [Google](http://google.com).
 
@@ -22,8 +23,8 @@ and sometimes a mentor for [FIRST Robotics Team 401](http://team401.org).
 My interests include Artificial Intelligence (Machine Learning in particular),
 Robotics, Kayaking, Human-Computer Interaction, Cellular Automata, Knitting, 
 Digital Electronics, Language (Computational Linguistics, Formal Languages, 
-Programming Languages, and Natural Language Processing), Ethics, Hiking, and any
-combination of these things.
+Programming Languages, and Natural Language Processing), Change Ringing,
+Ethics, Hiking, and any combination of these things.
 
 My tools of choice include Python, C++ (although I admit that I pretend that
 it's C with classes and generics), Ruby, and Scheme. I occasionally play with
@@ -32,7 +33,7 @@ My shell of choice has been ZSH for years, but I'm now giving fish a shot.
 
 For more information, you can check out my internet [r&eacute;sum&eacute;
 ](http://www.linkedin.com/pub/ben-weinstein-raun/28/967/368/), download a PDF 
-version of my [CV](/images/CV.pdf), see some of my [projects 
+version of my (out of date) [CV](/images/CV.pdf), see some of my [projects 
 ](http://github.com/benwr), or send me an email. My address is 
 `[username]@[site].[tld]`, where `[username]`, `[site]`, and `[tld]` are drawn 
 from the following table:
@@ -45,6 +46,7 @@ from the following table:
 | `weinsteinraun` | `gmail` | `com` |
 | `bwr`           | `ieee`  | `org` |
 | `benwr01`       | `gmail` | `com` |
+| `benwr`         | `cmu`   | `edu` |
 
 I'm `bwr` on the OFTC IRC network.
 
