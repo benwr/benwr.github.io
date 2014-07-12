@@ -14,7 +14,7 @@ date: 2014-07-11 1:37:37
 
 Currently this is a list of topics; I'll add links to resources as I come across them.
  
-### Math and Computer Science ###
+### Math ###
 * Convex Optimization
 * Linear Optimization
 * Numerical Methods
@@ -27,6 +27,7 @@ Currently this is a list of topics; I'll add links to resources as I come across
 * Artificial Intelligence
 * Advanced Algorithms and Data Structures
 * Planning
+ - [Planning Algorithms - Steven LaValle](http://planning.cs.uiuc.edu)
 * Complexity Theory
 
 ### Physics ###
