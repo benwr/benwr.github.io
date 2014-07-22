@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Things to Learn"
-date: 2014-07-11 1:37:37
+date: 2014-07-22 13:04:37
 ---
 
 ## Meta-lists ##
@@ -23,6 +23,8 @@ Currently this is a list of topics; I'll add links to resources as I come across
 * Graph Theory
 * Modern Algebra
 * Higher-order logic
+* Topology
+ - [The Geometry and Topology of Three-Manifolds](http://library.msri.org/books/gt3m/) 
 
 ### Computer Science ###
 * Artificial Intelligence
