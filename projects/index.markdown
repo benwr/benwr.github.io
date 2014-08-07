@@ -6,10 +6,14 @@ date: 2013-10-25 21:22:37
 
 This is a list of some projects I've worked on, including some stuff for class, some
 for extracurricular activities, and some for no reason other than that I was bored.
+This is not an exhaustive list. You may want to check out
+[my github profile](https://github.com/benwr) as well, which has some of my
+more self-documenting projects (that is, those that are mostly code).
 
 ---
 
 ## Application of Neural Networks to Prediction of Normalized Difference Vegetation Index ##
+#### November 2013 ####
 
 Basically, NASA and UW produced [this data set](http://jisao.washington.edu/datasets/ndvi/)
 of Normalized Difference Vegetation Index (NDVI). It indicates how much vegetation is
@@ -28,6 +32,7 @@ We did a fair job, but I'd like to see if I could do better given more time.
 ---
 
 ## Boost Converter ##
+#### May 2013 ####
 
 A simple project Chris Buck and I made that won the 2013 Virginia Tech HKN ANDY Board Competition:
 a boost converter. The project was composed of two main parts: One is just a circuit that generates
@@ -44,3 +49,17 @@ The operation of a boost converter is based on an inductor’s opposition to cha
 Our circuit demonstration drove 7 LEDs in series, each with an “on” voltage of ~1.8V.  This required a source voltage of ~12.6V (7 x 1.8V). However, we powered our circuit using only the 9V-regulated source on the A&D board.
 
 By adjusting the potentiometer, it was easy to see the dimming effect.
+
+---
+
+## Knitted Cellular Automata Hats ##
+#### February - September 2012 ####
+
+I have knit hats based on
+[elementary cellular automata](http://mathworld.wolfram.com/ElementaryCellularAutomaton.html),
+and Rule 110 in particular. I do this because I was learning to knit at the same time as I
+was learning what cellular automata were, and the ideas seemed to go together. I've started
+a Rule 30 hat a couple of times but always discarded it fifteen rows in or so; for some reason the
+rule is harder for me to internalize. Anyway, here's a photo:
+
+![Me wearing a rule 110 hat](https://googledrive.com/host/0B6QINlqDWlIAVzNNcVhlc0JfeWM/546470_10150859021162184_1108769176_n.jpg)
