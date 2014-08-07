@@ -29,7 +29,7 @@ We did a fair job, but I'd like to see if I could do better given more time.
 
 ## Boost Converter ##
 
-A simple project Chris Buck and I made for the Virginia Tech HKN ANDY Board Competition:
+A simple project Chris Buck and I made that won the 2013 Virginia Tech HKN ANDY Board Competition:
 a boost converter. The project was composed of two main parts: One is just a circuit that generates
 PWM using a potentiometer and a 555 timer, and the other is the actual boost converter.
 
