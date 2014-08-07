@@ -9,6 +9,7 @@ date: 2014-07-22 13:04:37
 * [Matt Might: What Every Computer Science Major Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
 * [University of Cambridge: Mathematical Reading List](http://www.maths.cam.ac.uk/undergrad/admissions/readinglist.pdf)
 * [Gerard 't Hooft: How to become a GOOD Theoretical Physicist](http://www.staff.science.uu.nl/~Gadda001/goodtheorist/)
+* [Better Explained: Intuition Cheatsheet](http://betterexplained.com/cheatsheet/)
 
 
 ## Topics ##
