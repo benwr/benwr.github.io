@@ -11,6 +11,26 @@ This is not an exhaustive list. You may want to check out
 more self-documenting projects (that is, those that are mostly code).
 
 ---
+## Latchburg ##
+#### May 2014 ####
+
+[Hacksburg](http://hacksburg.org) needed an access system, and cheap. We had a Raspberry Pi
+and some donated equipment including an electronic strike plate. With a couple quick trips to
+Radio Shack, the repurposing of a 5V power supply from a car cigarette lighter, and some Python,
+I built [this](http://hackaday.io/project/753-Latchburg) fun little doohicky.
+
+![the internals of latchburg](https://static.hackaday.io/images/resize/600x600/4935351396980488356.jpg)
+
+We were restricted by the Corporate Research Center in that the access system had to provide
+access based on the magstripe cards used by the university. This is bad because it guarantees that
+at least some members' cards will be encoded using only their university ID number (plus the university's
+unique identifier and a single digit that increments when they're issued a new card). This is a pretty
+small space to brute force, and it's relatively easy for an attacker to find this information anyway. I'm thinking
+about making a simple, optional two-factor system that texts a user when they swipe their card and asks
+for an affirmative response. This would at least allow members to ensure that it won't be _their_ card info
+that lets someone in.
+
+---
 
 ## Application of Neural Networks to Prediction of Normalized Difference Vegetation Index ##
 #### November 2013 ####
