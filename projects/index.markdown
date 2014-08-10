@@ -17,7 +17,8 @@ more self-documenting projects (that is, those that are mostly code).
 [Hacksburg](http://hacksburg.org) needed an access system, and cheap. We had a Raspberry Pi
 and some donated equipment including an electronic strike plate. With a couple quick trips to
 Radio Shack, the repurposing of a 5V power supply from a car cigarette lighter, and some Python,
-I built [this](http://hackaday.io/project/753-Latchburg) fun little doohicky.
+I built [this](http://hackaday.io/project/753-Latchburg) fun little doohicky. The code is
+[here](https://github.com/hacksburg/latchburg) if you'd like to audit it!
 
 ![the internals of latchburg](https://static.hackaday.io/images/resize/600x600/4935351396980488356.jpg)
 
