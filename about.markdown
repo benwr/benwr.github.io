@@ -40,6 +40,7 @@ from the following table:
 
 | username        | site    | tld   |
 | --------------- |:-------:| -----:|
+| `b`             | `w-r`   | `me`  |
 | `bwr`           | `vt`    | `edu` |
 | `benwr`         | `vt`    | `edu` |
 | `donotreply`    | `vt`    | `edu` |
