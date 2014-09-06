@@ -4,8 +4,8 @@ title:  "A Koan"
 date:   2014-09-06 01:39:00
 ---
 
-A [novice](http://benwr.net) by chance met [Stallman](https://stallman.org/), pushing a heavy cart on the
-[Silver Road](http://www.mbta.com/schedules_and_maps/subway/lines/?route=SILVER).
+A [novice](http://benwr.net) by chance met [Stallman](https://stallman.org/) pushing a heavy cart on the
+[silver road](http://www.mbta.com/schedules_and_maps/subway/lines/?route=SILVER).
 The novice asked to help, and Stallman agreed.
 
 When they sat down to rest, the novice asked Stallman about how to best apply himself, that he might become
