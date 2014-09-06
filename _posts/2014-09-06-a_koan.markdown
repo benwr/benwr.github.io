@@ -10,5 +10,3 @@ The novice asked to help, and Stallman agreed.
 
 When they sat down to rest, the novice asked Stallman about how to best apply himself, that he might become
 a better hacker and do good. "Hack," Stallman replied, "And, if you have time later, help me unload this cart."
-
-Upon hearing this, the novice was enlightened.
