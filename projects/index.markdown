@@ -11,6 +11,16 @@ This is not an exhaustive list. You may want to check out
 more self-documenting projects (that is, those that are mostly code).
 
 ---
+## Intent Prediction in Robotic Teleoperation Tasks Using Inverse Reinforcement Learning ##
+#### Summer 2014 ####
+
+[This poster](http://www.ri.cmu.edu/education/RISS/2014/Weinstein-Raun-Ben.pdf) was the result of some of the
+work I did at Carnegie Mellon in Summer of 2014. Basically, we had a robot arm (the Kinova Mico), used mostly for
+assisting disabled users, and we wanted to simplify its use by predicting the user's target and helping them
+reach it. I'm still working remotely on other aspects of this project, so it's not anywhere near done, but I'm
+pretty proud of the graphical explanation of Markov Decision Processes.
+
+---
 ## Latchburg ##
 #### May 2014 ####
 
