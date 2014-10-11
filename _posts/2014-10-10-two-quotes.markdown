@@ -4,8 +4,11 @@ title:  "Two Quotes from 'The Tao is Silent', by Raymond Smullyan"
 date:   2014-10-10 21:09:00
 ---
 
-### From the chapter "Is God a Taoist?" ###
----
+I've recently been reading the book _The Tao is Silent_, by Raymond Smullyan,
+and it's fun of so many well-expressed, simple, interesting, hilarious,
+confusing ideas that it feels kind of like eating gummy candies for my brain.
+Anyway, I especially like these two quotes from a chapter titled "Is God a
+Taoist?"
 
     [God:] It is the same with a human being. A creature from another planet may
     look at him purely impersonally as a mere collection of atomic particles
