@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Books"
+date:   2015-01-22 12:00:00
+---
+
+I'd like to start keeping track of my favorite books. I could use Goodreads (I haven't logged in in quite a while), but I figured a blog post might also work well. I guess we'll see.
+
+### Book Recommendations ###
+
+#### Hal Abelson and Gerald Sussman: Structure and Interpretation of Computer Programs ####
+
+The best book on computing I've ever read. The best textbook I've ever owned.
+It's concise but approachable; its exercises aren't just good, they're enlightening.
+Every time you read it, you find something new to latch onto. It's [free](http://mitpress.mit.edu/sicp/).
+If you're a programmer, you should read it. If you want to become a programmer, my recommendation is
+to work through a more-introductory book (Maybe _Learn Python the Hard Way_), and then read this immediately
+afterward.
+
+#### Raymond Smullyan: The Tao is Silent ####
+
+I have no particular gravitation toward the mystical or the religious. Accordingly,
+The Tao is Silent is not for the kind of person who is in the habit of discovering
+deep truths in religious texts; it's for people who think too much. It's a book about
+religion for nerds. I laughed out loud more times per page while reading this book than
+any book since I was 10 (which is saying something given that this estimate includes Douglas Adams).
+
+#### Daniel Quinn: Ishmael ####
+
+There's a certain way of thinking about humanity's future that I learned from _Ishmael_.
+If I had a million dollars, I'd spend a significant portion of it sending copies of this book
+to politicians and scientists.
+
+#### Jack Kerouac: The Dharma Bums ####
+
+Another book about spirituality that doesn't feel like it's about spirituality. It's just fun.
