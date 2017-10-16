@@ -1,6 +1,0 @@
-name: Benjamin Weinstein-Raun
-markdown: redcarpet
-pygments: true
-destination: /srv/http/
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
