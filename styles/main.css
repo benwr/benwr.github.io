@@ -5,25 +5,48 @@ body {
     color: #000;
 }
 
-div.top-bar {
+div.home-top-bar {
     margin-top: 4em;
 }
 
-div.name {
-    min-width: 28em;
+div.page-top-bar {
+    margin-top: 1em;
 }
 
-div.nav {
+div.home-top-bar div.name {
+    min-width: 25em;
+}
+
+div.page-top-bar div.name {
+    min-width: 20em;
+}
+
+div.home-top-bar div.nav {
     height: 4em;
     min-width: 15.5em;
     margin: 0;
 }
 
+div.page-top-bar div.nav {
+    height: 4em;
+    min-width: 12em;
+    margin: 0;
+}
+
+div.home-top-bar div.nav a {
+    font-size: 1.6em;
+    line-height: 2.2em;
+}
+
+div.page-top-bar div.nav a {
+    line-height: 2.5em;
+    font-size: 1.2em;
+}
+
 div.nav a {
-    color: #ccc;
-    font-size: 1.5em;
-    display: inline-block;
     padding-right: 1em;
+    display: inline-block;
+    color: #ccc;
 }
 
 div.nav a:hover {
@@ -32,6 +55,14 @@ div.nav a:hover {
 
 h1 {
     font-family: "Rufina", "Crimson Text", "Palatino", "Georgia", serif;
+}
+
+div.page-top-bar h1 {
+    font-size: 2em;
+}
+
+div.home-top-bar h1 {
+    margin-bottom: 0
 }
 
 h2, h3, h4, h5, h6 {
@@ -60,6 +91,10 @@ p.infobar {
 .content {
     font-size: 1.1em;
     text-align: justify;
+}
+
+.content img {
+    padding: 1em;
 }
 
 ul {
