@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "A Koan"
-date:   2014-09-06 01:39:00
+date:   September 6, 2014
+location: Blacksburg, VA
+categories: blog
 ---
 
 A [novice](http://benwr.net) by chance met [Stallman](https://stallman.org/) pushing a heavy cart on the
