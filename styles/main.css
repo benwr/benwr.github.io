@@ -2,6 +2,7 @@ body {
     background-color: #fcfaef;
     font-family: "Crimson Text", "Palatino", "Georgia", serif;
     font-size: 2.0em;
+    line-height: 1.7em;
     color: #000;
 }
 
@@ -137,4 +138,8 @@ span.date, span.location {
     font-size: 0.8em;
     color: #999;
     margin-left: 3em;
+}
+
+div.footnotes p {
+    display: inline;
 }
