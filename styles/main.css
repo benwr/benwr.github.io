@@ -15,9 +15,6 @@ div.page-top-bar {
     margin-top: 1em;
 }
 
-div.page-top-bar div.name {
-}
-
 div.home-top-bar div.nav {
     height: 4em;
     margin-bottom: 1em;
@@ -30,17 +27,18 @@ div.page-top-bar div.nav {
 }
 
 div.home-top-bar div.nav a {
+    padding-right: 1em;
     font-size: 1.4em;
     margin-top: 0.4em;
 }
 
 div.page-top-bar div.nav a {
+    padding-left: 1em;
     line-height: 1.5em;
     font-size: 1.0em;
 }
 
 div.nav a {
-    padding-right: 1em;
     display: inline-block;
     color: #ccc;
 }
@@ -71,8 +69,6 @@ div.home-top-bar h1 {
     margin-bottom: 0;
 }
 
-h2, h3, h4, h5, h6 {
-}
 a {
     color: #21a2fd;
     text-decoration: none;
