@@ -3,7 +3,7 @@ layout: post
 title:  "Two Quotes"
 date:   October 10, 2014
 location: Blacksburg, Virginia
-categories: blog
+categories: blog feed
 ---
 
 I've recently been reading the book _The Tao is Silent_, by Raymond Smullyan,

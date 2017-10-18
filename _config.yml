@@ -1,4 +1,5 @@
 title: "Ben Weinstein-Raun"
+name: "Ben Weinstein-Raun"
 email: b@w-r.me
 description: >-
   The personal web page of Ben Weinstein-Raun.
@@ -7,6 +8,3 @@ url: "https://benwr.net"
 
 
 markdown: kramdown
-
-plugins:
-  - jekyll-feed
