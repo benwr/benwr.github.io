@@ -1,44 +1,37 @@
 body {
     background-color: #fcfaef;
     font-family: "Crimson Text", "Palatino", "Georgia", serif;
-    font-size: 2.0em;
-    line-height: 1.7em;
+    font-size: 1.6rem;
+    line-height: 2.6rem;
     color: #000;
 }
 
-div.home-top-bar {
+div.home-top-bar div.name {
     margin-top: 4em;
+    margin-bottom: 0;
 }
 
 div.page-top-bar {
     margin-top: 1em;
 }
 
-div.home-top-bar div.name {
-    min-width: 25em;
-}
-
 div.page-top-bar div.name {
-    min-width: 15em;
-    margin-right: 0;
 }
 
 div.home-top-bar div.nav {
     height: 4em;
-    margin: 0;
-    min-width: 15em;
+    margin-bottom: 1em;
 }
 
 div.page-top-bar div.nav {
     text-align: right;
     font-size: 1.2em;
     height: 4em;
-    min-width: 10em;
 }
 
 div.home-top-bar div.nav a {
-    font-size: 1.6em;
-    line-height: 2.2em;
+    font-size: 1.4em;
+    margin-top: 0.4em;
 }
 
 div.page-top-bar div.nav a {
@@ -56,7 +49,8 @@ div.nav a:hover {
     color: #666;
 }
 
-h1 {
+h1, h2, h3 {
+    text-align: left;
     font-family: "Rufina", "Crimson Text", "Palatino", "Georgia", serif;
 }
 
@@ -73,7 +67,8 @@ div.page-top-bar a:hover h1 {
 }
 
 div.home-top-bar h1 {
-    margin-bottom: 0
+    font-size: 2.3em;
+    margin-bottom: 0;
 }
 
 h2, h3, h4, h5, h6 {
@@ -108,7 +103,7 @@ p.infobar {
     border-radius:1em;
     overflow: hidden;
     padding: 0;
-    margin: 1em;
+    margin: 1.5em;
 }
 
 .content a h2, .content h2 {
@@ -142,4 +137,8 @@ span.date, span.location {
 
 div.footnotes p {
     display: inline;
+}
+
+div.content img {
+    max-width: 100%;
 }
