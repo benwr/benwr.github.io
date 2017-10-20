@@ -133,6 +133,7 @@ span.date, span.location {
 
 div.footnotes p {
     display: inline;
+    font-size: 0.8em;
 }
 
 div.content img {
