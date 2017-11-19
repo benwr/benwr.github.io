@@ -11,11 +11,10 @@ There's an increasing number of things I feel I need to know but don't.
 This is a list of some of them.
 
 It's easier to pick out things that are sort of math-y or technical, though
-there are definitely lots of 
+there are definitely lots of other things I want to be better at.
 
 These are arranged by how much I feel like I ought to know them.
-
-I've learned a little bit of most of these things, but I need to learn
+I've learned a little bit about most of these, but I need to learn
 a lot more.
 
 ## One textbook's worth or more
@@ -54,3 +53,4 @@ a lot more.
 * Macroeconomics
 * Haskell
 * Racket
+* Bazel
