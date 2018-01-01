@@ -17,6 +17,9 @@ These are arranged by how much I feel like I ought to know them.
 I've learned a little bit about most of these, but I need to learn
 a lot more.
 
+Much of this could be folded into "About the same math that would
+be known by the average undergraduate math senior." 
+
 ## One textbook's worth or more
 
 * Probability and Statistics
@@ -29,6 +32,7 @@ a lot more.
 * Optimization
 * Lagrangian Mechanics
 * Game Theory
+* Vector Calculus
 
 ## Half a textbook's worth, or the full documentation
 
@@ -45,6 +49,7 @@ a lot more.
 * Tensorflow
 * Pyro, Edward, or some other PPL
 * Visual Studio Code
+* Cryptography
 
 ## A couple of chapters of a textbook, passing familiarity
 
