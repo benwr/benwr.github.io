@@ -1,8 +1,7 @@
 ---
 layout: post
-categories: unpublished
 author: Ben Weinstein-Raun
-date: 16:37 October 17, 2017
+date: October 17, 2017
 location: San Francisco, CA
 title: Should I Care Whether Or Not I'm In A Simulation?
 ---
@@ -69,5 +68,5 @@ please message me if you know of any resources that discuss this, or if
 you have better ideas of your own.
 
 [^1]: Not certain, just very likely; it's possible that the universe is
-    wildly different than my direct experience would suggest it is. For 
+    wildly different than my direct experience would suggest it is. For
     example, I could be a Boltzmann brain.
