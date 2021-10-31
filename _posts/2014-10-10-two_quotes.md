@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Two Quotes"
+title:  "Two quotes"
 date:   October 10, 2014
-location: Blacksburg, Virginia
+location: Blacksburg
 categories: blog feed
 ---
 

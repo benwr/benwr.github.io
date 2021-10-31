@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "A Koan"
+title:  "A koan"
 date:   September 6, 2014
-location: Blacksburg, VA
+location: Blacksburg
 categories: blog feed
 ---
 

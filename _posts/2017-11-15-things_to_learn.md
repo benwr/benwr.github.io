@@ -1,9 +1,9 @@
 ---
 layout: post
 author: "Ben Weinstein-Raun"
-location: San Francisco, CA
-title: "Things to Learn"
-date:   November 15, 2017
+location: San Francisco
+title: "Things to learn"
+date: November 15, 2017
 categories: notes feed
 ---
 

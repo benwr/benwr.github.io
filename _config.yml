@@ -3,8 +3,7 @@ name: "Ben Weinstein-Raun"
 email: b@w-r.me
 description: >-
   The personal web page of Ben Weinstein-Raun.
-baseurl: ""
-url: "https://benwr.net"
+url: "https://www.benwr.net"
 
 
 markdown: kramdown

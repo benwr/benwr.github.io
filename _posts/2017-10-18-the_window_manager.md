@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The Window Manager I Want To Use
+title: The window manager I want To use
 date: October 18, 2017
-location: San Francisco, California
+location: San Francisco
 categories: notes feed
 ---
 

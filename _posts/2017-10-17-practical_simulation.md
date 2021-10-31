@@ -2,8 +2,8 @@
 layout: post
 author: Ben Weinstein-Raun
 date: October 17, 2017
-location: San Francisco, CA
-title: Should I Care Whether Or Not I'm In A Simulation?
+location: San Francisco
+title: Should I care whether or not I'm in a simulation?
 ---
 
 Since I've started hanging around with the kind of people who read
