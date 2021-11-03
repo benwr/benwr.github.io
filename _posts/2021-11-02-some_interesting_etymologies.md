@@ -51,4 +51,5 @@ The "-pter" part of the word is from the Greek word for wing, "pteros" (also a r
 I find this especially interesting because people often seem to assume that the parts of the word "helicopter" are "heli-" and "-copter" (for example in the words "heli-pad" and "roflcopter"), as though it might have something to do with [Copts](https://en.wikipedia.org/wiki/Copts) ascending to the sun, when in fact it's about "helico-pters": flying helices.
 
 
+Thanks to Malo Bourgon and Benya Fallenstein for discussions that led me to look up some of these facts, and Katja Grace for editing help.
 
