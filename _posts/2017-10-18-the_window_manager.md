@@ -1,9 +1,8 @@
 ---
 layout: post
-title: The window manager I want To use
+title: The window manager I want to use
 date: October 18, 2017
 location: San Francisco
-categories: notes feed
 ---
 
 I spend some time thinking about my workflow - what's good about

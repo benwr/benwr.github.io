@@ -4,7 +4,6 @@ author: "Ben Weinstein-Raun"
 location: San Francisco
 title: "Things to learn"
 date: November 15, 2017
-categories: notes feed
 ---
 
 There's an increasing number of things I feel I need to know but don't.
