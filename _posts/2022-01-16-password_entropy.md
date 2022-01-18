@@ -10,7 +10,9 @@ from a distribution \\(W\\) with a lot of "entropy". The (Shannon) entropy of a 
 
 $$H(W) = \sum_w\mathrm{P}(w) \log\frac{1}{\mathrm{P}(w)}$$
 
-This definition is an answer to the question "how much information is encoded in a chosen password, on average?" This is also the approximate number of *bits* we need to specify *which* password we picked. An adversary would need to try about \\(2^{H(W) - 1}\\) passwords in order to guess yours, on average.
+This definition is an answer to the question "how much information is encoded in a chosen password, on average?" This is also the approximate number of *bits* we need to specify *which* password we picked. An adversary would need to try at least \\(2^{H(W) - 2} + 1\\) passwords in order to guess yours, on average.[^1]
+
+[^1]: See [Massey's (very short) "Guessing and Entropy"](http://www.isiweb.ee.ethz.ch/archive/massey_pub/pdf/BI633.pdf) for a discussion of this lower bound.]
 
 This is typically how people think about choosing strong passwords, and it works well in the case where we're choosing among equally likely passwords. But it breaks horribly when we allow our distribution to be non-uniform. Because choosing good passwords is about memorableness as well as sheer strength, we might sometimes want to use complicated password selection schemes that don't necessarily give uniformly distributed selections, and Shannon entropy can really screw up here.
 
@@ -40,4 +42,4 @@ An issue with this method, though, is that it doesn't let us distinguish the d20
 
 But I think the most important thing about the min-entropy is that it gives us a *conservative* estimate that we can use to compare password selection schemes, while Shannon entropy gives something more like a central estimate. If the min-entropy is \\(b\\) bits, we can feel really confident that it will take \\(2^{b - 1}\\) guesses to crack our typical passwords, even if the distribution isn't uniform. If one scheme's min-entropy is better than another's Shannon entropy, we can feel secure that the first scheme is better.
 
-*Thanks to Adam Scherlis for pointing out the issue with Shannon entropy, and Katja Grace for discussions about the problem.*
+*Thanks to Adam Scherlis for pointing out the issue with Shannon entropy, Katja Grace for discussions about the problem, and Thomas Sepulchre for pointing out a major flaw in the original post.*
