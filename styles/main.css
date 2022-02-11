@@ -141,3 +141,7 @@ div.footnotes p {
 div.content img {
     max-width: 100%;
 }
+
+li {
+  margin-bottom: 0.5rem;
+}
