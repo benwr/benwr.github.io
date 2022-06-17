@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Missing Litany
+title: A Litany Missing from the Canon
 date: June 16, 2022
 location: Berkeley
 ---
