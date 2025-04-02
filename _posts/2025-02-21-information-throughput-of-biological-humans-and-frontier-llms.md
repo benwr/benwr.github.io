@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Information throughput of biological humans and frontier LLMs
-date: February 12, 2025
+date: February 21, 2025
 location: Berkeley
 ---
 
