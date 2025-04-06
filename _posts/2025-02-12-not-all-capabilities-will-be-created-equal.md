@@ -18,7 +18,8 @@ In the current strategic environment, real-world strategic capacity typically en
 1. Accurately modeling and predicting the world in some broad domain, but especially modeling and predicting individual humans and groups of humans.
 2. Social skills, including persuasion, manipulation, delegation, and coalition building.
 3. Robust planning and resource acquisition on the scale of years, and the ability to adjust plans fluidly as situations change.
-4. I claim that we will face existential risks from AI no sooner than the development of strategically human-level artificial agents, and that those risks are likely to follow soon after.
+
+I claim that we will face existential risks from AI no sooner than the development of strategically human-level artificial agents, and that those risks are likely to follow soon after.
 
 If we are going to build these agents without "losing the game", either (a) they must have goals that are compatible with human interests, or (b) we must (increasingly accurately) model and enforce limitations on their capabilities. If there's a day when an AI agent is created without either of these conditions, that's the day I'd consider humanity to have lost. We might not be immediately wiped out by a nanobot swarm, but from that time forward humans will be more like pawns than players, and when our replacement actuators have been built, we'll likely be left without the resources we need to survive.
 
