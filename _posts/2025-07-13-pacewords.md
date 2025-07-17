@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open Sesame: Poems' Entropy"
+title: "Pacewords"
 date: July 13, 2025
 location: Washington, DC
 ---
