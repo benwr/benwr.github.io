@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bookstore Poems
-date: November 29, 2025
+date: 2025-11-29
 location: Berkeley
 ---
 
