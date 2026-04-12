@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Superhuman AI
+title: One way of seeing the situation
 date: April 12, 2026
 location: Berkeley
 ---
