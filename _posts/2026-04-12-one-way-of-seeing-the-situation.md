@@ -38,5 +38,5 @@ bureaucracies that enslave or murder other humans, or inhumanely raise and
 slaughter animals for us to eat. If you're not strategically useful to powerful
 groups of humans, you should probably fear them.
 
-I think we should probably stop trying to build strategically superhuman AI, if
+I think we should probably stop trying to build [strategically superhuman AI](/2025/02/12/not-all-capabilities-will-be-created-equal.html), if
 we can.
