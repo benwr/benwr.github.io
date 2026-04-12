@@ -7,7 +7,7 @@ location: Berkeley
 
 People are building nonhuman things that look on track to surpass all humans in
 all economically relevant intellectual capabilities. They will also be cheaper
-to deploy than humans (who cost 0.5kg of oxygen and 2000kcal of protein and
+to deploy than humans (who cost 0.5kg of oxygen and 2000kcal of (at least) protein and
 fats per day, plus a laundry list of micronutrients, and need to be kept within
 some pretty specific conditions in order to be productive; all told on the
 order of $1-100 / day).
