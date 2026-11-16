@@ -7,7 +7,7 @@ location: Berkeley
 
 **tl;dr:** You can use stacks of sheets with holes in them to visually verify moderately-large computations including widely used [cryptographic hash functions](https://en.wikipedia.org/wiki/Cryptographic_hash_function), within human-scale timeframes.
 
-<!-- screenshot of one of the interactive diagrams goes here -->
+![A stack of punched sheets checking a small circuit: light shines through the holes that line up at each gate](/images/nullius-in-pixella.png)
 
 Imagine that all the world's computers have been taken over by an AI swarm. You don't know whether you can trust the AI swarm to be honest with you - you're skeptical, in part because it just took over all the world's computers, which doesn't seem like an act of a particularly trustworthy AI swarm.
 
