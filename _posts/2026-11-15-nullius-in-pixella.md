@@ -83,7 +83,7 @@ I mostly think it's cool that you can verify arbitrary circuits like this, in a 
 
 # acknowledgements
 
-While I originally had this basic idea in 2021, Claude Fable 5.2 fleshed out the whole thing, partly based on its knowledge of prior work on [visual cryptography](https://doi.org/10.1007/BFb0053419) and [transparency computing](https://link.springer.com/chapter/10.1007/978-3-540-88869-7_31), some by Naor, Shamir, [Pinkas](https://eprint.iacr.org/1997/013), and Head. Claude also produced all of the interactive diagrams and tables.
+While I originally had the basic idea (visually verifying large computation traces with trusted filters) in 2021, Claude Fable 5.2 fleshed out the details (most crucially the "dual rail" encoding to verify negations, though originally this was [due to Von Neumann](https://static.ias.edu/pitp/archive/2012files/Probabilistic_Logics.pdf), who called it the "double line trick" referring to lines in the circuit diagram rather than optical lines like the ones here), partly based on its knowledge of prior work on [visual cryptography](https://doi.org/10.1007/BFb0053419) and [transparency computing](https://link.springer.com/chapter/10.1007/978-3-540-88869-7_31), some by Naor, Shamir, [Pinkas](https://eprint.iacr.org/1997/013), and Head. Claude also produced all of the interactive diagrams and tables.
 
 ---
 
