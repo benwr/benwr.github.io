@@ -7,18 +7,18 @@ location: Berkeley
 
 ![A whiteboard sketch: a wavy line labeled "behavior", with lines above it standing for the reasons behind the behavior, marked "relatively easy to infer" near the behavior and "more opaque" higher up; a stick figure watches the behavior and imagines a model of it](/images/obstacles-to-mindreading.png)
 
-Sometimes there's an entity in the world, and after observing that entity's behavior, I choose to [model it as an agent](https://en.wikipedia.org/wiki/Intentional_stance): that is, something that "seeks" some objective. I think I usually do this because I want to predict the entity's behavior in circumstances I haven't observed.
+Sometimes there's an entity in the world, and after observing that entity's behavior, I choose to [model it as an **agent**](https://en.wikipedia.org/wiki/Intentional_stance): that is, something that "seeks" some objective. I think I usually do this because I want to predict the entity's behavior in circumstances I haven't observed.
 
 -   I see a weird, wet-looking thing on a rock, moving slowly, with a trail of slime behind it. I might choose to model it as seeking to move in some particular direction. I avoid putting my book down right in front of it, to avoid getting slug slime on my book.
 -   I see a tree growing in a cave, with all its branches growing toward the cave entrance. I might choose to model it as aiming for its leaves to be in the sunlight. After seeing lots of examples I might generalize: trees aim for their leaves to be in the sun - I might arrange my garden so that the effect of the trees seeking sunlight is visually pleasing, and the trees' growth toward sunlight won't block pathways in the garden.
 -   I see a man with half a plate of food in front of him, fork moving some of the food into his mouth, seeming to enjoy the meal. I might choose to model him as seeking to ingest the food. "I'll have what he's having," I tell the waiter.
 
-"Why is it doing that?" I might ask, about an entity. Some answers will be "internal" reasons (internal to the frame of treating that entity as an agent).
+"Why is it doing that?" I might ask, about an entity. Some answers will be **"internal" reasons** (internal to the frame of treating that entity as an agent).
 
 -   "He answered 'A' for that question because he believes Napoleon was German"
 -   "It grabbed the fruit because it's hungry"
 
-Other answers will be "external" reasons, that don't stay inside the agentic frame.
+Other answers will be **"external" reasons**, that don't stay inside the agentic frame.
 
 -   "It's moving its legs like that because its neurons are firing in such-and-such a pattern and that's leading its muscles to contract like so"
 -   "It's falling because it is denser than the medium it's embedded in"
@@ -33,13 +33,13 @@ Maybe there simply are no prior internal reasons for the things I observe or inf
 
 -   The thermostat 'wants' the temperature to match its set point, and when I try to ask "why" it wants that, I find myself only able to find reasons that are more "external": "That's what its manufacturers designed it to seek," or "that's what its firmware is tuned to optimize for." If I try to ascribe more-internal reasons to it, they seem at least a little false: "It thinks the set point is the 'right' temperature for it to be", or "It wants to please its operator" both feel like too much of a stretch; maybe because they don't seem to add anything to my predictions of how the thermostat will behave. More-complicated agents (bacteria, insects, humans) eventually run out of "internal reasons" too.
 
-Or maybe there are prior internal reasons, but they are not visible to me: they are "opaque".
+Or maybe there are prior internal reasons, but they are not visible to me: they are "**opaque**".
 
 -   A poker player raises. Is she bluffing?
 -   When you told me the time, did you know that the clock is broken?
 -   Does the author of this edgy tweet sincerely believe that, or are they being ironic, or are they trolling?
 
-Some of this opacity (we might call it "simple opacity") is there because I am merely a little ignorant of some of the agent's behavior, and if I looked more carefully, or in new settings, I'd see enough information to see through the opacity. Some ("irreducible opacity") is logically present for any entity that I'm modeling as a certain kind of agent. And some is what I'd call "instrumental opacity": places where the agent is intentionally hiding its internal reasons from me or from the world.
+Some of this opacity (we might call it "**simple opacity**") is there because I am merely a little ignorant of some of the agent's behavior, and if I looked more carefully, or in new settings, I'd see enough information to see through the opacity. Some ("**irreducible opacity**") is logically present for any entity that I'm modeling as a certain kind of agent. And some is what I'd call "**instrumental opacity**": places where the agent is intentionally hiding its internal reasons from me or from the world.
 
 In the case of simple opacity, I may have just not seen enough information, or made sufficiently good inferences, but the information is not structurally hidden from me.
 
