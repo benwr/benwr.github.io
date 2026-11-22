@@ -5,6 +5,8 @@ date: November 21, 2026
 location: Berkeley
 ---
 
+![A whiteboard sketch: a wavy line labeled "behavior", with lines above it standing for the reasons behind the behavior, marked "relatively easy to infer" near the behavior and "more opaque" higher up; a stick figure watches the behavior and imagines a model of it](/images/obstacles-to-mindreading.png)
+
 Sometimes there's an entity in the world, and after observing that entity's behavior, I choose to [model it as an agent](https://en.wikipedia.org/wiki/Intentional_stance): that is, something that "seeks" some objective. I think I usually do this because I want to predict the entity's behavior in circumstances I haven't observed.
 
 -   I see a weird, wet-looking thing on a rock, moving slowly, with a trail of slime behind it. I might choose to model it as seeking to move in some particular direction. I avoid putting my book down right in front of it, to avoid getting slug slime on my book.
