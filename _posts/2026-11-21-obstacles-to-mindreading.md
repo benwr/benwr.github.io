@@ -31,7 +31,7 @@ But sometimes an entity's internal reasons will not be visible to me, given the 
 
 Maybe there simply are no prior internal reasons for the things I observe or infer.
 
--   The thermostat 'wants' the temperature to match its set point, and when I try to ask "why" it wants that, I find myself only able to find reasons that are more "external": "That's what its manufacturers designed it to seek," or "that's what its firmware is tuned to optimize for." If I try to ascribe more-internal reasons to it, they seem at least a little false: "It thinks the set point is the 'right' temperature for it to be", or "It wants to please its operator" both feel like too much of a stretch; maybe because they don't seem to add anything to my predictions of how the thermostat will behave. Other agents eventually run out of "internal reasons" too.
+-   The thermostat 'wants' the temperature to match its set point, and when I try to ask "why" it wants that, I find myself only able to find reasons that are more "external": "That's what its manufacturers designed it to seek," or "that's what its firmware is tuned to optimize for." If I try to ascribe more-internal reasons to it, they seem at least a little false: "It thinks the set point is the 'right' temperature for it to be", or "It wants to please its operator" both feel like too much of a stretch; maybe because they don't seem to add anything to my predictions of how the thermostat will behave. More-complicated agents (bacteria, insects, humans) eventually run out of "internal reasons" too.
 
 Or maybe there are prior internal reasons, but they are not visible to me: they are "opaque".
 
