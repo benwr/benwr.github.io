@@ -27,7 +27,7 @@ Often, internal reasons have internal reasons of their own.
 
 -   "I'm typing this word on my phone, because I'm typing this sentence on my phone, because I want you to read it, because I want you to know that I will be late, because I don't want you to be as annoyed with me when I don't arrive on time, because I value your friendship"
 
-But sometimes an entity's internal reasons will be "opaque" to me, given the behavior I can observe.
+But sometimes an entity's internal reasons will not be visible to me, given the behavior I can observe.
 
 Maybe there simply are no prior internal reasons for the things I observe or infer.
 
