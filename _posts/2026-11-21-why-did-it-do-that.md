@@ -54,7 +54,7 @@ Irreducible opacity is usually relative to some particular modeling assumptions:
 The most dramatic category is instrumental opacity: The agent wants me not to know its internal reasons, so it shapes its behavior to prevent me from learning them.
 
 -   "Why did you step on my foot?" "Oh sorry, I'm so clumsy!" (but really the person is very angry at me)
--   I'm told that poker players "[protect their range](https://www.pokerskill.com/poker-glossary/range-protection/)": They try to behave in a way that's consistent with many possible hands, while still maximizing the expected value of the hand.
+-   I'm told that poker players "[protect their range](https://www.pokerskill.com/poker-glossary/range-protection/)": They try to behave in a way that's consistent with many possible hands, while still maximizing the expected value of their strategy.
 -   "I can neither confirm nor deny": [Glomarization](https://en.wikipedia.org/wiki/Glomar_response) is a form of instrumental opacity.
 -   Intelligence and law enforcement agencies seek "[parallel constructions](https://en.wikipedia.org/wiki/Parallel_construction)" so that they can act on secret information without revealing that they have that information.
 
