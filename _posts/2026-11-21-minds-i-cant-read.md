@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Why did it do that?": simple, irreducible, and instrumental opacity'
+title: "Minds I can't read: Simple, irreducible, and instrumental opacity"
 date: November 21, 2026
 location: Berkeley
 ---
@@ -62,4 +62,4 @@ Different kinds of opacity suggest different remedies: To resolve simple opacity
 
 _Thanks to Rafe Kennedy for labeling "internal" and "external" whys, Jeremy Schlatter for the example of poker players "protecting range", John Salvatier for help thinking about the taxonomy and terminology, and various AIs (Claude Fable 5.2, GPT-6.2 Astra, Gemini 4 Carbon) for feedback on the essay._
 
-*You can discuss this post on [LessWrong](https://www.lesswrong.com/posts/3znHBDGQWBjhWEKcQ/why-did-it-do-that-simple-irreducible-and-instrumental).*
+*You can discuss this post on [LessWrong](https://www.lesswrong.com/posts/3znHBDGQWBjhWEKcQ/minds-i-can-t-read-simple-irreducible-and-instrumental).*
